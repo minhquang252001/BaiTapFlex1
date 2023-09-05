@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items: center;
+    height: 100%
+
+}
+.icon-box{
+    width: 40px;
+    height: 40px;
+    background-color: #ecf4ff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+    padding: 8px;
+    margin: 5px
+}
+.inganh{
+    width: 24px;
+    height: 24px;
+    border-radius: 30px;
+}
+.box{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    width: 500px;
+    height: 100px;
+    margin: 15px;
+    color: blue;
+    border:2px solid rgb(182, 179, 179);
+}
+.dong1{
+    display: flex;
+}
+.dong2{
+    display: flex;
+}
+.dong3{
+    display: flex;
+}
+.dong4{
+    display: flex;
+}
+.box img{
+    margin: 0 25px ;
+}
+a{
+    color: blue;
+   font-weight: 700;
+}
+Span{
+    color: black;
+}
